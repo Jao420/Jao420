@@ -5,6 +5,7 @@
 
 
 ![Jaozim420 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaozim420&show_icons=true&theme=dracula)
+<a href="mailto: joao.soarespru@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target_blank></img></a>
 
 ### Tecnologias que estou aprendendo
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
