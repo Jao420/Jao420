@@ -15,4 +15,4 @@
 ![Snake animation](https://github.com/Jaozim420/Jaozim420/blob/output/github-contribution-grid-snake.svg)
 
 
-ja e
+
