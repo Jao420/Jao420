@@ -9,7 +9,7 @@
 
 ### Tecnologias que estou aprendendo
 <div style="display: inline_block">
-<img align="center" alt="Jao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<a href= "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" <img align="center" alt="Jao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
 <a href="https://www.typescriptlang.org/"><img align="center" alt="Jao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
 <img align="center" alt="Jao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <a href= "https://nodejs.org/en//"><img align="center" alt="Jao-Node" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
