@@ -7,7 +7,7 @@
 ![Jaozim420 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaozim420&show_icons=true&theme=dracula)
 
 
-### Tecnologias que estou aprendendo
+### Languages and Tools:
 <div style="display: inline_block">
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> <img align="center" alt="Jao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </a>
 <a href="https://www.typescriptlang.org/"><img align="center" alt="Jao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
