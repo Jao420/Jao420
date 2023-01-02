@@ -13,6 +13,7 @@
 <a href="https://www.typescriptlang.org/"><img align="center" alt="Jao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
 <a href="https://reactjs.org/"><img align="center" alt="Jao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
 <a href= "https://nodejs.org/en//"><img align="center" alt="Jao-Node" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
+<a href="https://neovim.io/" ><img align="center" alt="Jao-Vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /></a>
   
 
 
